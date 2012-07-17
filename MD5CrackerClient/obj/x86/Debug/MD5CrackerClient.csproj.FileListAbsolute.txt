@@ -1,0 +1,5 @@
+c:\users\daemonstorm\documents\visual studio 2010\Projects\MD5CrackerServer\MD5CrackerClient\bin\Debug\MD5CrackerClient.exe
+c:\users\daemonstorm\documents\visual studio 2010\Projects\MD5CrackerServer\MD5CrackerClient\bin\Debug\MD5CrackerClient.pdb
+c:\users\daemonstorm\documents\visual studio 2010\Projects\MD5CrackerServer\MD5CrackerClient\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\daemonstorm\documents\visual studio 2010\Projects\MD5CrackerServer\MD5CrackerClient\obj\x86\Debug\MD5CrackerClient.exe
+c:\users\daemonstorm\documents\visual studio 2010\Projects\MD5CrackerServer\MD5CrackerClient\obj\x86\Debug\MD5CrackerClient.pdb
